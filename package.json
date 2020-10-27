@@ -8,7 +8,7 @@
     "gatsby": "^2.20.29",
     "gatsby-plugin-styled-components": "^3.2.3",
     "graphql": "^14.6.0",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "styled-components": "^5.1.0"
