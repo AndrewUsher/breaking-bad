@@ -5,8 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.7",
-    "gatsby": "^2.20.29",
-    "gatsby-plugin-styled-components": "^3.2.3",
+    "gatsby": "^3.0.0",
+    "gatsby-plugin-styled-components": "^4.0.0",
     "graphql": "^14.6.0",
     "isomorphic-fetch": "^2.2.1",
     "react": "^16.12.0",
