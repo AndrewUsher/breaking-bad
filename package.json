@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "babel-plugin-styled-components": "^1.12.0",
+    "babel-plugin-styled-components": "^2.0.0",
     "gatsby": "^3.4.2",
     "gatsby-plugin-styled-components": "^4.4.0",
     "graphql": "^15.5.0",
