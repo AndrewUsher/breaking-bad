@@ -1145,6 +1145,11 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.20.13":
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.29.7.tgz#12022450c45a4da6d8d8287b18a4ff2ddb23f768"
+  integrity sha512-Nq8OhGWiZIZGV6hLHoyAKLLcJihP/xFeBMGJoUrxTX2psI8dCifzLhZISFb+VWS3wFMRDmCGw5R+dOySCqPLhw==
+
 "@babel/runtime@^7.4.5", "@babel/runtime@^7.6.3":
   version "7.6.3"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.6.3.tgz#935122c74c73d2240cafd32ddb5fc2a6cd35cf1f"
@@ -5628,12 +5633,12 @@ gatsby-plugin-page-creator@^3.4.1:
     globby "^11.0.3"
     lodash "^4.17.21"
 
-gatsby-plugin-styled-components@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-styled-components/-/gatsby-plugin-styled-components-4.4.0.tgz#c647f888899ca1ef887fd73cdb596e2dd0205e5d"
-  integrity sha512-Kc0IO98ASTFUjbmB8elyGds2oMguc0tZsxlpZdC5K8SA/CdZsubKoz//Q7TVgzsTsDO6LKo7KHhCn/MutAyqJg==
+gatsby-plugin-styled-components@^6.16.0:
+  version "6.16.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-styled-components/-/gatsby-plugin-styled-components-6.16.0.tgz#9f87307b5a5ffa3aa76631854b910df9b273d3b6"
+  integrity sha512-9OSmKbr4rlcklVejqG+UVsmvsJJAi8tD1x/8hVN+b4zrCzKmFJWw5MiHDI4rDsxm26T6GxN4SSqOWH/UCro1bg==
   dependencies:
-    "@babel/runtime" "^7.12.5"
+    "@babel/runtime" "^7.20.13"
 
 gatsby-plugin-typescript@^3.4.0:
   version "3.4.0"
